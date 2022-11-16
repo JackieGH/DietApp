@@ -1,2 +1,3 @@
 # DietApp
 A health app focused on improving diet.
+Not a food app for those following the newest diet trends. Instead, Delish focuses on our actual diets by helping users find recipes for any food ingredient found at home! The most important aspect of our health comes down to provinding our bodies with nutrition...
